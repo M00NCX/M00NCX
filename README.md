@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Adryelle
 - 🌱 I’m currently learning Unity/C# | Python | HTML & CSS
 - 📫 How to reach me...
-<a href="mailto: mooncxxx@gmail.com">
+<a href= "mailto: mooncxxx@gmail.com">
     <img src="https://camo.githubusercontent.com/30397c9df98ac1da26a8cf343965637687573f2f0e80884121290aaab40c1b38/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d2532334541343333353f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width:100%;"></a>
 
 <a href="https://www.linkedin.com/in/adryelle-thayne" rel="nofollow">
