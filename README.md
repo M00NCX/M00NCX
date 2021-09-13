@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Adryelle
-- 🌱 I’m currently learning Unity/C# | Python | C
+- 🌱 I’m currently learning C | Python | Unity/C# | 
 - 📫 How to reach me...
     <a href="mailto: mooncxxx@gmail.com?Subject=Título%20da%20mensagem"></a>
 
