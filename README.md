@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Adryelle
-- 🌱 I’m currently learning C | Java | SQL | Something else| 
+- 🌱 I’m currently learning C | Java | Data Science | Something else| 
 - 📫 How to reach me...
     <a href="mailto: mooncxxx@gmail.com?Subject=Título%20da%20mensagem"></a>
 
