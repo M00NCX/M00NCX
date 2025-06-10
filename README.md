@@ -4,7 +4,7 @@
 
 <div  align="center" style="margin-bottom:100px">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=M00NCX&theme=tokyonight" alt="mystreak"/>
-<img width=40%  " src="https://github-readme-stats.vercel.app/api/top-langs/?username=M00NCX&hide=html,css,scss,blade,c%2B%2B&show_icons=true&theme=aura&layout=compact" />
+<img width=40%  " src="https://github-readme-stats.vercel.app/api/top-langs/?username=M00NCX&hide=scss,blade,c%2B%2B&show_icons=true&theme=aura&layout=compact" />
 
 ---
 <div> 
